@@ -1,0 +1,79 @@
+nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  #manitlogog
+  {
+     height: 180px;
+  }
+  #smililog
+  {
+    height: 150px;
+  }
+  #loginimg
+  {
+    height: 150px;
+  }
+  #mainloginarea
+  {
+    width:350px;
+  }
+  #getotpbutton,#loginbutton
+  {
+    width: 340px;
+  }
+  #maindiv
+  {
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+  }
+  #registerdiv
+  {
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+  }
+  #otpinput
+  {
+    width: 80px;
+    height: 80px;
+  }
+  #boxmain
+  {
+    width: 700px;
+  }
+ 
+  #basicinfo
+  {
+    width: 700px;
+  }
+  #adharinfo
+  {
+    width: 600px;
+  }
+  #feesDiv
+  {
+    width: 600px;
+  }
+  #downloadbtn
+  {
+    width: 320px;
+  }
+  #backupdiv
+  {
+    width: 320px;
+  }
+  
